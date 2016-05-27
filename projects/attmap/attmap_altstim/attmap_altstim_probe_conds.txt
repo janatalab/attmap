@@ -1,0 +1,4 @@
+prA_4_3i_1v_107bpm, low_reson hi_reson low_reson hi_reson;
+prC_124_3i_1v_107bpm, hi_reson low_reson hi_reson low_reson;
+simple1v2, hi_reson low_reson low_reson hi_reson;
+simple2v2, low_reson hi_reson low_reson hi_reson;

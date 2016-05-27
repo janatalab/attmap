@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "zest">
+	<slot number = "1">
+		<pattr name = "obs_num" value = "1" />
+		<patcher name = "zest_pattr">
+			<pattr name = "converged" value = "0" />
+			<patcher name = "zest_params">
+				<pattr name = "A" value = "1" />
+				<pattr name = "B" value = "2.5" />
+				<pattr name = "C" value = "2.5" />
+				<pattr name = "beta" value = "10" />
+				<pattr name = "delta_L" value = "10" />
+				<pattr name = "eta" value = "0" />
+				<pattr name = "fa" value = "0.1" />
+				<pattr name = "max_trials" value = "20" />
+				<pattr name = "maxrange" value = "20" />
+				<pattr name = "minrange" value = "0.01" />
+				<pattr name = "miss" value = "0.02" />
+				<pattr name = "stepsize" value = "0.03" />
+				<pattr name = "thresh_tol" value = ".2" />
+				<pattr name = 'T' value = "" />
+			</patcher>
+		</patcher>
+	</slot>
+</pattrstorage>
+
