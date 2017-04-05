@@ -19,7 +19,9 @@
 				<pattr name = "miss" value = "0.02" />
 				<pattr name = "stepsize" value = "0.03" />
 				<pattr name = "thresh_tol" value = ".2" />
+				<pattr name = "termination_pdf_sd" value = "1.15" />
 				<pattr name = 'T' value = "" />
+				<pattr name = "stopping_pdf_sd" value = "1.1" />
 			</patcher>
 		</patcher>
 	</slot>
