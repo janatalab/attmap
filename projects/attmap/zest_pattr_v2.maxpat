@@ -811,7 +811,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 32.5, 197.169922, 126.0, 19.0 ],
-									"text" : "if ($i1 < 6) then 0 else 1"
+									"text" : "if ($i1 < 7) then 0 else 1"
 								}
 
 							}
@@ -4337,7 +4337,7 @@
 									}
 ,
 									"text" : "autopattr",
-									"varname" : "u678002241"
+									"varname" : "u528003515"
 								}
 
 							}
@@ -6252,7 +6252,8 @@
 				}
 
 			}
- ]
+ ],
+		"dependency_cache" : [  ]
 	}
 
 }
